@@ -44,7 +44,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "eslint": "8.57.0",
-    "eslint-config-andrewaylett": "2.3.0",
+    "eslint-config-andrewaylett": "3.1.0",
     "eslint-plugin-react": "7.34.2",
     "source-map-explorer": "2.5.3"
   },

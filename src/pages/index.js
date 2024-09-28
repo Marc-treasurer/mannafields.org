@@ -55,9 +55,9 @@ function cards(data) {
 }
 
 const openDay = () =>
-  Date.now() < new Date('2022-11-05') ? (
+  Date.now() < new Date('2024') ? (
     <>
-      <CardTitle title={'Open Day: 5th November 2022'} />
+      <CardTitle title={'Open Day: To be arranged'} />
       <CardText>
         <p>Come and visit the school on our next open day. Check back here for the date.</p>
       </CardText>

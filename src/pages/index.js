@@ -59,7 +59,7 @@ const openDay = () =>
     <>
       <CardTitle title={'Open Day: 5th November 2022'} />
       <CardText>
-        <p>Come and visit the school for our open day: 5th November 2022, 1-3pm in the school.</p>
+        <p>Come and visit the school on our next open day. Check back here for the date.</p>
       </CardText>
     </>
   ) : (
